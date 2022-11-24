@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This repo contains the UI (created using flutter) of a random UI design of a shopping list I saw on dribble. I tried to recreate using the assets I could lay my hands on 😁
 
 A few resources to get you started if this is your first Flutter project:
 
