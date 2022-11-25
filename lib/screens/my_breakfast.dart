@@ -103,6 +103,7 @@ class _MyBreakFastSCreenState extends State<MyBreakFastSCreen> {
         ),
       ),
       bottomNavigationBar: BottomAppBar(
+        elevation: 0.0,
         child: Padding(
           padding: const EdgeInsets.only(bottom: 10.0),
           child: Row(
